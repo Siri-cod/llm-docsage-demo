@@ -1,4 +1,4 @@
-# 🧠 LLM Dosage Demo — A Lightweight Frontend for Prompting Large Language Models
+# 🧠 LLM Docsage Demo — A Lightweight Frontend for Prompting Large Language Models
 
 This project is a simple yet functional frontend application that allows users to interact with a large language model (Meta Llama 3.3 70B) via a secure backend API built with Node.js.
 
